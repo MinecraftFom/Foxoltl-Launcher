@@ -5,7 +5,6 @@ module com.fomdev.cmc {
     requires org.controlsfx.controls;
     requires org.kordamp.bootstrapfx.core;
 
-    opens com.fomdev.cmc to javafx.fxml;
-    exports com.fomdev.cmc;
-    exports com.fomdev.foxoltl;
+    exports com.fomdev.cmc.api;
+    exports com.fomdev.foxoltl.render;
 }
