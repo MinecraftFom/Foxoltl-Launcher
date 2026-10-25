@@ -7,4 +7,5 @@ module com.fomdev.cmc {
 
     opens com.fomdev.cmc to javafx.fxml;
     exports com.fomdev.cmc;
+    exports com.fomdev.foxoltl;
 }
