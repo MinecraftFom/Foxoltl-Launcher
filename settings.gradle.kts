@@ -1,1 +1,1 @@
-rootProject.name = "cmc"
+rootProject.name = "Foxoltl Launcher"
